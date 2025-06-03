@@ -77,7 +77,7 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const abstractRes = await fetch("http://localhost:5000/generate-abstract", {
+      const abstractRes = await fetch("/api/generate-abstract", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question })
@@ -98,7 +98,7 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const searchRes = await fetch("http://localhost:5000/generate-search-string", {
+      const searchRes = await fetch("/api/generate-search-string", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question })
@@ -124,7 +124,7 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch("http://localhost:5000/pubmed-search", {
+      const res = await fetch("/api/pubmed-search", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ search_string: searchString })
@@ -145,7 +145,7 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch("http://localhost:5000/download-pdfs", {
+      const res = await fetch("/api/download-pdfs", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ search_string: searchString })
