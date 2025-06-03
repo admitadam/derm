@@ -1,0 +1,864 @@
+Title: Molecular analysis of immune checkpoint inhibitor associated erythema nodosum-like toxicity.
+Authors: Xiaopeng Sun, Margaret L Axelrod, Paula I Gonzalez-Ericsson, Violeta Sanchez, Yu Wang, Jonathan L Curry, Elizabeth J Phillips, Yaomin Xu, Douglas B Johnson, Justin M Balko
+Year: 2025
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2025.1542499
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/40181973/
+Abstract: Immune checkpoint inhibitors (ICIs) are increasingly used to treat advanced malignancy but can induce immune-related adverse events (irAE). The mechanisms behind these sporadic and sometimes life-threatening irAEs remain largely unexplored. Here, we present a case report and in-depth molecular analysis of an erythema nodosum (EN) like irAE occurring in a melanoma patient with isolated brain metastasis, aiming to explore the potential mechanism of this irAE.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2025.1542499
+  - LibKey: https://doi.org/10.3389/fimmu.2025.1542499
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11966048', 'https://doi.org/10.3389/fimmu.2025.1542499']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2025.1542499
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Clinical features of nivolumab-induced Stevens-Johnson syndrome/toxic epidermal necrolysis: retrospective analysis based on case reports.
+Authors: Ronghui Li, Haibo Lei, Chunjiang Wang, Xiang Liu
+Year: 2025
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2025.1563100
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/40170847/
+Abstract: Stevens - Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) is a life-threatening adverse reaction to nivolumab. This study investigated the clinical features of nivolumab induced SJS/TEN to provide evidence for diagnosis and treatment.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2025.1563100
+  - LibKey: https://doi.org/10.3389/fimmu.2025.1563100
+  - Unpaywall: ['https://doi.org/10.3389/fimmu.2025.1563100', 'https://www.ncbi.nlm.nih.gov/pmc/articles/11958938']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2025.1563100
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Case Report: Multiple cutaneous keratoacanthoma-like lesions in a colorectal cancer patient treated with sintilimab.
+Authors: Shiyi Li, Xianhui Ye, Xiaofen Li, Yu Yang
+Year: 2025
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2025.1535220
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/40098970/
+Abstract: Immune checkpoint inhibitors are increasingly being utilized for the treatment of advanced neoplastic disease, and Sintilimab as a selective anti-PD-1 antibody that inhibits interactions between PD-1 and its ligand, is a typical representative of them. Among all the adverse effects(AEs) of sintilimab, skin AEs had affected many people. Though exceedingly rare, eruptive keratoacanthomas-like lesion have been associated with the use of immune checkpoint inhibitors before. Here, we report a case of numerous eruptive keratoacanthoma-like lesions arising in a patient 2 weeks after initiation of sintilimab for rectal adenocarcinoma with liver metastasis. Although eruptive keratoacanthoma-like lesions secondary to sintilimab are exceptionally rarely reported, physicians should be aware of this cutaneous adverse effect as its use becomes more widespread.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2025.1535220
+  - LibKey: https://doi.org/10.3389/fimmu.2025.1535220
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11911321', 'https://doi.org/10.3389/fimmu.2025.1535220']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2025.1535220
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Research in practice: Immune checkpoint inhibitor related autoimmune bullous dermatosis.
+Authors: Jasper N Pruessmann, Wiebke Pruessmann, Christian D Sadik
+Year: 2025
+Journal: Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG
+DOI: 10.1111/ddg.15638
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39945070/
+Abstract: Immune checkpoint receptors and ligands such as cytotoxic T lymphocyte antigen-4 (CTLA-4), programmed death-1 (PD-1) and ligand-1 (PD-L1) are widely expressed on immune and non-immune cells and fine tune the activation level of immune cells, thus, enabling, preventing, or terminating immune responses. Blockade of CTLA-4, PD-1 or PD-L1 by checkpoint inhibitors (CIs), unleashing immune responses, has become a mainstay in the treatment of diverse types of cancer. The induction of autoinflammatory, yet unspecific tissue damage in diverse organs is called an immune related adverse event (irAE), a class side-effect of CIs and may require the discontinuation of immunotherapy. Among frequent skin rashes, CIs targeting the PD-L1/PD-1 axis can elicit the IgG autoantibody- and granulocyte-driven bullous pemphigoid (BP) in about 0.3% to 0.6% of treated patients. Pathogenesis of BP requires a complex cellular inflammatory response after anti-BP180 autoantibody binding to the dermal epidermal junction. The prevalence of autoantibodies against BP180 in healthy blood donors of approximately 0.52% equals the prevalence of irBP among treated cancer patients, underlining the potential relevance of the PD-1 mediated regulation of tissue inflammation for spontaneous BP. If skin rashes appear during CI therapy, biopsies should be taken and examined by histopathological and direct immunofluorescence microscopy.
+Access URLs:
+  - DOI: https://doi.org/10.1111/ddg.15638
+  - LibKey: https://doi.org/10.1111/ddg.15638
+  - Unpaywall: ['https://febs.onlinelibrary.wiley.com/doi/full/10.1111/ddg.15638', 'https://www.ncbi.nlm.nih.gov/pmc/articles/11979558', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/ddg.15638', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/ddg.15638', 'https://onlinelibrary.wiley.com/doi/full/10.1111/ddg.15638', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/ddg.15638', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/ddg.15638']
+  - Sci-Hub: https://sci-hub.se/10.1111/ddg.15638
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cutaneous Side Effects of PD-1 Inhibitors: A Single-Center Retrospective Study.
+Authors: Melánia Pozsgai, Udoh Frieda-Rex Sebastian, Péter Oláh, Viktória Németh, Rolland Gyulai, Zsuzsanna Lengyel
+Year: 2025
+Journal: International journal of dermatology
+DOI: 10.1111/ijd.17683
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39925013/
+Abstract: The introduction of immune checkpoint inhibitors (ICIs) opened a new era in cancer immunotherapy. In particular, PD-1 inhibitors have shown remarkable efficacy in various cancers, most notably melanoma. However, the widespread use of immune checkpoint inhibitors comes with the challenge of immune-related adverse events (irAEs), with cutaneous toxicities being the most prevalent.
+Access URLs:
+  - DOI: https://doi.org/10.1111/ijd.17683
+  - LibKey: https://doi.org/10.1111/ijd.17683
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/12082620', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/ijd.17683', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijd.17683', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/ijd.17683', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/ijd.17683', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/ijd.17683', 'https://onlinelibrary.wiley.com/doi/full/10.1111/ijd.17683']
+  - Sci-Hub: https://sci-hub.se/10.1111/ijd.17683
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Association of Cutaneous Immune-related Adverse Events with Overall Survival and Progression-free Survival in Oncology Patients Receiving Immune Checkpoint Inhibitors: A Prospective Study of 189 Patients in a Spanish Tertiary Care Hospital.
+Authors: Gloria Juan-Carpena, Natividad Martínez Banaclocha, Juan Carlos Palazón Cabanes, Maria Niveiro-de Jaime, Isabel Betlloch Mas, Mar Blanes-Martínez
+Year: 2025
+Journal: Acta dermato-venereologica
+DOI: 10.2340/actadv.v105.42023
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39749393/
+Abstract: Cutaneous immune-related adverse events (cirAEs) may be associated with tumoral response and survival in patients using immune checkpoint inhibitors, but this relationship remains unclear because previous reports on the topic have various limitations. The purpose of this study was to examine the association of cirAEs with overall survival and progression-free survival in patients starting immune checkpoint inhibitors. A prospective observational study was conducted in a Spanish tertiary care hospital, including participants between March 2020 and May 2022. The statistical analysis involved the Kaplan-Meier method, log-rank test, and multivariable Cox proportional hazards regression models. At total of 189 patients were included, of whom 82 (43.4%) presented cirAEs. Most participants (56.6%) were diagnosed with non-small cell lung cancer (NSCLC). Mortality and progression rates were lower in patients with vs without cirAEs (p < 0.0001). Cox models showed that cirAEs were a protective factor for overall survival (adjusted HR 0.50; p < 0.0001) and progression-free survival (adjusted HR 0.54; p = 0.001) independently of cancer type, tumour stage or immune checkpoint inhibitor category. There were similar results for extracutaneous irAEs. A limitation was the single-centre design. CirAE occurrence is positively associated with longer survival and less cancer progression among immune checkpoint inhibitor recipients independently of other factors.
+Access URLs:
+  - DOI: https://doi.org/10.2340/actadv.v105.42023
+  - LibKey: https://doi.org/10.2340/actadv.v105.42023
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11697139', 'https://medicaljournalssweden.se/actadv/article/download/42023/48538']
+  - Sci-Hub: https://sci-hub.se/10.2340/actadv.v105.42023
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Delayed and immediate cutaneous adverse events during pembrolizumab combination chemotherapy against cervical cancer: Case series.
+Authors: Takeya Adachi, Tomoya Matsui, Utako Okata-Karigane, Chiaki Takahashi, Umi Tahara, Mari Hyodo, Akihiro Miyagawa, Kenta Kobayashi, Yoshio Nakamura, Takeru Funakoshi, Hiroshi Nishio, Wataru Yamagami, Hayato Takahashi
+Year: 2025
+Journal: The Journal of dermatology
+DOI: 10.1111/1346-8138.17521
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39526614/
+Abstract: Immune checkpoint inhibitors (ICIs), such as pembrolizumab (PEM), are widely recognized for their antitumor efficacy, but they can also lead to various cutaneous adverse events (CAEs). While most CAEs can be managed with topical corticosteroids, severe cases may necessitate halting immunotherapy. The incidence of severe CAEs is notably higher in combination therapies involving ICIs than in monotherapies, emphasizing the need for stringent, long-term management strategies. This includes potential modifications or discontinuations of the combination therapy. PEM, when added to the conventional paclitaxel + cisplatin (or carboplatin) ± bevacizumab regimen, has shown significant improvements in overall and progression-free survival for patients with Stage IVB metastatic or locally uncontrolled recurrent cervical cancer. This case series retrospectively examined the incidence and management of CAEs in 19 female patients treated with this combination therapy between October 2022 and May 2023. Four patients exhibiting CTCAE grade 3 were identified. The four cases of severe CAEs involved erythema multiforme after the initial course of PEM combination chemotherapy. Notably, three patients experienced immediate hypersensitivity reactions, including anaphylaxis, during subsequent treatments. This observation underscores the necessity for rigorous dermatological monitoring of patients undergoing PEM combination chemotherapy. Such vigilance is crucial for early detection of adverse reactions and timely adjustment of treatment regimens, thereby enhancing patient safety.
+Access URLs:
+  - DOI: https://doi.org/10.1111/1346-8138.17521
+  - LibKey: https://doi.org/10.1111/1346-8138.17521
+  - Unpaywall: ['https://onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17521', 'https://www.ncbi.nlm.nih.gov/pmc/articles/11700920', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17521', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17521', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17521', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17521', 'https://onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17521']
+  - Sci-Hub: https://sci-hub.se/10.1111/1346-8138.17521
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune checkpoint inhibitor-induced severe epidermal necrolysis mediated by macrophage-derived CXCL10 and abated by TNF blockade.
+Authors: Chun-Bing Chen, Shuen-Iu Hung, John Wen-Cheng Chang, Chan-Keng Yang, David Hui-Kang Ma, Yu-Chuan Teng, Chun-Wei Lu, Wei-Ti Chen, Hsiao-Yin Yang, Cheng-Chang Tsai, Chih Liang Wang, Pin-Hsuan Chiang, Jennifer Wu, Ya-Wen Tsai, Lai-Ying Lu, Yang Yu-Wei Lin, Rosaline Chung-Yee Hui, Fu-Mei Hsieh, Chao-Kai Hsu, Chaw-Ning Lee, Yi-Ju Chen, Chih-Chiang Chen, Yilei Cui, Hung-Chih Hsu, Ya-Ching Chang, Chih-Jung Chang, Ho-Chen Lin, Chee Jen Chang, Yu-Jr Lin, Cheng-Lung Ku, Chuang-Wei Wang, Wen-Hung Chung
+Year: 2024
+Journal: Nature communications
+DOI: 10.1038/s41467-024-54180-7
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39737932/
+Abstract: Immune checkpoint inhibitors (ICI) represent new anticancer agents and have been used worldwide. However, ICI can potentially induce life-threatening severe cutaneous adverse reaction (SCAR), such as Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN), hindering continuous ICI therapy. We examine 6 cohorts including 25 ICI-induced SJS/TEN patients and conduct single-cell RNA sequencing (scRNA-seq) analysis, which shows overexpression of macrophage-derived CXCL10 that recruits CXCR3
+Access URLs:
+  - DOI: https://doi.org/10.1038/s41467-024-54180-7
+  - LibKey: https://doi.org/10.1038/s41467-024-54180-7
+  - Unpaywall: ['https://www.nature.com/articles/s41467-024-54180-7.pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/11685864']
+  - Sci-Hub: https://sci-hub.se/10.1038/s41467-024-54180-7
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Tumor necrosis factor inhibitors enhance corticosteroid therapy for Stevens-Johnson syndrome and toxic epidermal necrolysis linked to immune checkpoint inhibitors: a prospective study.
+Authors: Chun-Xia He, Lan Guo, Tao Qu, Hong-Zhong Jin
+Year: 2024
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2024.1421684
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39170619/
+Abstract: Immune-related epidermal necrolysis (irEN), including Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN), represents a potentially lethal reaction to immune checkpoint inhibitors. An optimal treatment strategy remains undefined. This study evaluates the effectiveness and safety of combination therapy with corticosteroids and tumor necrosis factor inhibitors (TNFi) in treating irEN patients.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2024.1421684
+  - LibKey: https://doi.org/10.3389/fimmu.2024.1421684
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11335491', 'https://doi.org/10.3389/fimmu.2024.1421684']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2024.1421684
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: [Not Available].
+Authors: Jeanette Kaae, Berit Christina Carlsen, Aska Drljevic-Nielsen, Jesper Palshof, Inge Marie Svane, Christian Vestergaard
+Year: 2024
+Journal: Ugeskrift for laeger
+DOI: 10.61409/V03240216
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39115212/
+Abstract: Over the past decade, treatment with immune checkpoint inhibitors (ICI) has been implemented in cancer treatment. It has led to a significant improvement in the prognosis for many types of cancer. ICIs work by inducing the body's immune response against cancer cells. Unfortunately, they can also cause immune-related adverse events in most organ systems, with skin-related adverse events being among the most common. This review provides an overview of existing evidence and clinical experience regarding managing dermatological adverse events associated with ICIs.
+Access URLs:
+  - DOI: https://doi.org/10.61409/V03240216
+  - LibKey: https://doi.org/10.61409/V03240216
+  - Unpaywall: ['https://pure.au.dk/portal/en/publications/0318b7c1-df56-4371-a8cd-e1ce7311cdc5']
+  - Sci-Hub: https://sci-hub.se/10.61409/V03240216
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Stevens-Johnson syndrome and toxic epidermal necrolysis associated with immune checkpoint inhibitors: a systematic review.
+Authors: Jia Zhou, Chuan-Peng Wang, Jun Li, Han-Lin Zhang, Chun-Xia He
+Year: 2024
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2024.1414136
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39072330/
+Abstract: Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) are rare yet life-threatening adverse events associated with immune checkpoint inhibitors (ICIs). This systematic review synthesizes the current literature to elucidate the clinical characteristics and outcomes of patients with ICI-related SJS/TEN.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2024.1414136
+  - LibKey: https://doi.org/10.3389/fimmu.2024.1414136
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11272453', 'https://doi.org/10.3389/fimmu.2024.1414136']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2024.1414136
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cancer Therapy-induced Dermatotoxicity as a Window to Understanding Skin Immunity.
+Authors: Yanek Jiménez-Andrade, Jessica L Flesher, Jin Mo Park
+Year: 2024
+Journal: Hematology/oncology clinics of North America
+DOI: 10.1016/j.hoc.2024.05.002
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38866636/
+Abstract: Pruritus, rash, and various other forms of dermatotoxicity are the most frequent adverse events among patients with cancer receiving targeted molecular therapy and immunotherapy. Immune checkpoint inhibitors, macrophage-targeting agents, and epidermal growth factor receptor/MEK inhibitors not only exert antitumor effects but also interfere with molecular pathways essential for skin immune homeostasis. Studying cancer therapy-induced dermatotoxicity helps us identify molecular mechanisms governing skin immunity and deepen our understanding of human biology. This review summarizes new mechanistic insights emerging from the analysis of cutaneous adverse events and discusses knowledge gaps that remain to be closed by future research.
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.hoc.2024.05.002
+  - LibKey: https://doi.org/10.1016/j.hoc.2024.05.002
+  - Unpaywall: ['https://doi.org/10.1016/j.hoc.2024.05.002']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.hoc.2024.05.002
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immunologic Profiling of Immune-Related Cutaneous Adverse Events with Checkpoint Inhibitors Reveals Polarized Actionable Pathways.
+Authors: Mario E Lacouture, Elena Goleva, Neil Shah, Veronica Rotemberg, Lukas Kraehenbuehl, Kwami F Ketosugbo, Taha Merghoub, Tara Maier, Alexander Bang, Stephanie Gu, Trina Salvador, Andrea P Moy, Taras Lyubchenko, Olivia Xiao, Clifton F Hall, Evgeny Berdyshev, James Crooks, Ryan Weight, Jeffrey A Kern, Donald Y M Leung
+Year: 2024
+Journal: Clinical cancer research : an official journal of the American Association for Cancer Research
+DOI: 10.1158/1078-0432.CCR-23-3431
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38652814/
+Abstract: Immune-related cutaneous adverse events (ircAE) occur in ≥50% of patients treated with checkpoint inhibitors, but the underlying mechanisms for ircAEs are poorly understood.
+Access URLs:
+  - DOI: https://doi.org/10.1158/1078-0432.CCR-23-3431
+  - LibKey: https://doi.org/10.1158/1078-0432.CCR-23-3431
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11215405', 'https://doi.org/10.5167/uzh-259920', 'https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-23-3431/3444706/ccr-23-3431.pdf', 'https://www.zora.uzh.ch/id/eprint/259920/8/ZORA259920.pdf']
+  - Sci-Hub: https://sci-hub.se/10.1158/1078-0432.CCR-23-3431
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Use of a topical Janus kinase inhibitor in immune checkpoint inhibitor-induced eczematous reaction: a case report.
+Authors: Camille M Powers, Hannah Verma, Jeremy Orloff, Austin J Piontkowski, Amy Tiersten, Angela Lamb, Nicholas Gulati
+Year: 2024
+Journal: The Journal of dermatological treatment
+DOI: 10.1080/09546634.2024.2336118
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38565207/
+Abstract: In this report, we describe the case of a 28-year-old female with bilateral breast cancer in the setting of a BRCA1 mutation, who presented to dermatology with an eczematous reaction, ultimately diagnosed as a cutaneous immune-related adverse event (cirAE) secondary to an immune checkpoint inhibitor (ICI), pembrolizumab. Our case report highlights a novel therapeutic option for an eczematous cirAE: the topical JAK 1/2 inhibitor, ruxolitinib. CirAEs can occur in up to 55% of patients on ICIs, a class of medications seeing rapidly increasing use in cancer therapy, and prior research has demonstrated that ICI-induced dermatitis may involve different pathways than traditionally observed in their spontaneous counterparts. Specifically, marked Th1 skewing is noted in ICI-induced dermatitis, as opposed to a predominant Th2 response which typically characterizes spontaneous atopic dermatitis. To our knowledge, this is the first case report in the literature discussing use of a topical JAK inhibitor, ruxolitinib, in the treatment of topical steroid-refractory cirAEs. Furthermore, as topical JAK inhibitors are thought to not carry the risks of systemic JAK inhibitors, including malignancy, ruxolitinib cream is a promising therapeutic option for this challenging patient population.
+Access URLs:
+  - DOI: https://doi.org/10.1080/09546634.2024.2336118
+  - LibKey: https://doi.org/10.1080/09546634.2024.2336118
+  - Unpaywall: ['https://www.tandfonline.com/doi/pdf/10.1080/09546634.2024.2336118']
+  - Sci-Hub: https://sci-hub.se/10.1080/09546634.2024.2336118
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Dermatologic toxicity associated with targeted and immunotherapies in stage-IV non-small cell lung cancer patients: A 14-year cohort.
+Authors: Yanmei Peng, Ashok V Kumar, Zhong Gu, Nikhila Kosuru, Jason A Wampfler, Pedro A Reck Dos Santos, Nathan Y Yu, Jonathan D'Cunha, Vinicius Ernani, Collin M Costello, Ping Yang
+Year: 2024
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2024.03.029
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38556092/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2024.03.029
+  - LibKey: https://doi.org/10.1016/j.jaad.2024.03.029
+  - Unpaywall: ['https://doi.org/10.1016/j.jaad.2024.03.029']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2024.03.029
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cancer type and histology influence cutaneous immunotherapy toxicities: a multi-institutional cohort study.
+Authors: Guihong Wan, Sara Khattab, Bonnie W Leung, Shijia Zhang, Nga Nguyen, Matthew Tran, Chuck Lin, Crystal Chang, Nora Alexander, Ruple Jairath, Jordan Phillipps, Kimberly Tang, Ahmad Rajeh, Leyre Zubiri, Steven T Chen, Shadmehr Demehri, Kun-Hsing Yu, Alexander Gusev, Shawn G Kwatra, Nicole R LeBoeuf, Kerry L Reynolds, Yevgeniy R Semenov
+Year: 2024
+Journal: The British journal of dermatology
+DOI: 10.1093/bjd/ljae053
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38366637/
+Abstract: Cutaneous immune-related adverse events (cirAEs) are the most common toxicities to occur in the setting of immune checkpoint inhibitor (ICI) therapy. Identifying patients who are at increased risk of developing cirAEs may improve quality of life and outcomes.
+Access URLs:
+  - DOI: https://doi.org/10.1093/bjd/ljae053
+  - LibKey: https://doi.org/10.1093/bjd/ljae053
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11188738']
+  - Sci-Hub: https://sci-hub.se/10.1093/bjd/ljae053
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune Profiling of Dermatologic Adverse Events from Checkpoint Blockade Using Tissue Cyclic Immunofluorescence: A Pilot Study.
+Authors: Zoltan Maliga, Daniel Y Kim, Ai-Tram N Bui, Jia-Ren Lin, Anna K Dewan, Saagar Jadeja, George F Murphy, Ajit J Nirmal, Christine G Lian, Peter K Sorger, Nicole R LeBoeuf
+Year: 2024
+Journal: The Journal of investigative dermatology
+DOI: 10.1016/j.jid.2024.01.024
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38360200/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jid.2024.01.024
+  - LibKey: https://doi.org/10.1016/j.jid.2024.01.024
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/11447745']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jid.2024.01.024
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune checkpoint inhibitor-induced epidermal necrolysis: A narrative review evaluating demographics, clinical features, and culprit medications.
+Authors: Takashi K Satoh, Matthias Munoz Neulinger, Pia-Charlotte Stadler, Rui Aoki, Lars E French
+Year: 2024
+Journal: The Journal of dermatology
+DOI: 10.1111/1346-8138.17039
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38031902/
+Abstract: Immune checkpoint inhibitors (ICIs) have transformed cancer treatment but can cause immune-related adverse events (irAEs). Severe cutaneous irAEs, including epidermal necrolysis, are rare but potentially life-threatening. There is limited understanding of the clinical features and management of ICI-induced Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN), so we aimed to analyze 95 cases of ICI-induced SJS/TEN (35 cases of SJS, 26 cases of TEN, two cases of SJS/TEN overlap, and 32 cases of unspecified) to increase knowledge of this condition among oncologists and dermatologists. We conducted a comprehensive search of PubMed for all relevant case reports published until the end of December 2022, and collected data on patient demographics, cancer type, ICI regimen, time to onset of SJS/TEN, clinical presentation, management strategies, and outcomes. PD-1 inhibitors were the most common ICIs associated with SJS/TEN (58.9%), followed by the combination of PD-1 and CTLA-4 inhibitors (11.6%), and PD-L1 inhibitors (6.3%). Lung cancer and melanoma were the most frequent malignancies treated (35.8% and 25.4%, respectively). SJS/TEN occurred most frequently within the first 4 weeks (51.7%), and corticosteroid monotherapy was the most commonly chosen systemic treatment (56.4%). The overall mortality rate of ICI-induced SJS/TEN was 30.8%. Our findings highlight the frequency and severity of ICI-induced SJS/TEN and the urgent need for predictive molecular biomarkers aimed at preventive measures and early intervention.
+Access URLs:
+  - DOI: https://doi.org/10.1111/1346-8138.17039
+  - LibKey: https://doi.org/10.1111/1346-8138.17039
+  - Unpaywall: ['https://onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17039', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17039', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17039', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17039', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/1346-8138.17039', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/1346-8138.17039', 'https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1346-8138.17039', 'https://epub.ub.uni-muenchen.de/108937/1/The_Journal_of_Dermatology_-_2023_-_Satoh_-_Immune_checkpoint_inhibitor%E2%80%90induced_epidermal_necrolysis__A_narrative_review.pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/11483933']
+  - Sci-Hub: https://sci-hub.se/10.1111/1346-8138.17039
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Comparative severe dermatologic toxicities of immune checkpoint inhibitors in malignant melanoma: A systematic review and network meta-analysis.
+Authors: Yun-Tao Mao, Ying Wang, Xiao-Xiao Chen, Cheng-Jiang Liu, Qi Bao
+Year: 2024
+Journal: Journal of cosmetic dermatology
+DOI: 10.1111/jocd.16105
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38013634/
+Abstract: Immune checkpoint inhibitors (ICIs) have advanced the therapeutic landscape for malignant melanoma patients. However, they can cause permanent and irreversible dermatologic immune-related adverse events (irAEs) that may lead to interruption of ICI treatment or become life-threatening. To assess the risk of severe dermatologic irAEs (grade 3 or higher) among ICIs for advanced melanoma, we conducted a network meta-analysis (NMA).
+Access URLs:
+  - DOI: https://doi.org/10.1111/jocd.16105
+  - LibKey: https://doi.org/10.1111/jocd.16105
+  - Unpaywall: ['https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/jocd.16105', 'https://onlinelibrary.wiley.com/doi/full/10.1111/jocd.16105', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/jocd.16105', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/jocd.16105', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/jocd.16105', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/jocd.16105']
+  - Sci-Hub: https://sci-hub.se/10.1111/jocd.16105
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune checkpoint inhibitor-induced lichenoid drug eruption-sparing scar burns.
+Authors: Kelvin Truong, Charmaine Vanessa Chamberlin, Jennifer Kim, Matteo S Carlino, Raquel Ruiz Araujo
+Year: 2024
+Journal: The Australasian journal of dermatology
+DOI: 10.1111/ajd.14192
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38009870/
+Abstract: The authors present a striking case of a patient experiencing a lichenoid drug eruption secondary to immunotherapy, curiously sparing scarred skin from past burns. We observed vastly higher amounts of inflammatory lymphoid cells staining for PD-1; 70% in skin with a lichenoid drug reaction and 50% in scarred skin. The lack of a lichenoid reaction at sites of scarred skin may indicate that a basement membrane component may be causative for a lichenoid drug eruption.
+Access URLs:
+  - DOI: https://doi.org/10.1111/ajd.14192
+  - LibKey: https://doi.org/10.1111/ajd.14192
+  - Unpaywall: ['https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ajd.14192', 'https://onlinelibrary.wiley.com/doi/full/10.1111/ajd.14192', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajd.14192', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/ajd.14192', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/ajd.14192', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/ajd.14192', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/ajd.14192']
+  - Sci-Hub: https://sci-hub.se/10.1111/ajd.14192
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Sintilimab-induced erythema multiforme drug eruption in the treatment of sigmoid colon cancer: A case report and literature review.
+Authors: Mei Zhang, Ran Wu, Min Jia, Shaoqin Sun, Lei Zhang, Ting Tang
+Year: 2023
+Journal: Medicine
+DOI: 10.1097/MD.0000000000035659
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/37832081/
+Abstract: Dermatologic toxicity has been reported as the most common immune-related side effect of programmed cell death 1 inhibitors. Previous reports related to Sintilimab include rash, pruritus, vitiligo, Stevens-Johnson syndrome, toxic epidermal necrolysis, and so on.
+Access URLs:
+  - DOI: https://doi.org/10.1097/MD.0000000000035659
+  - LibKey: https://doi.org/10.1097/MD.0000000000035659
+  - Unpaywall: ['https://doi.org/10.1097/md.0000000000035659', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10578730']
+  - Sci-Hub: https://sci-hub.se/10.1097/MD.0000000000035659
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Gene signature from cutaneous autoimmune diseases provides potential immunotherapy-relevant biomarkers in melanoma.
+Authors: Kyu-Hye Chun, Ye-Chan Park, Nahee Hwang, Bo Kyung Yoon, Jae-Woo Kim, Sungsoon Fang
+Year: 2023
+Journal: Scientific reports
+DOI: 10.1038/s41598-023-42238-3
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/37700026/
+Abstract: Immune checkpoint inhibitors (ICIs) are promising agents for treating melanoma. Given that autoimmune skin diseases exhibit hyper immune reaction, investigation of immune cells from autoimmune skin disease is crucial to validate the effectiveness of ICIs in melanoma treatment. We employed multipanel markers to predict the response to immune checkpoint inhibitors by characterizing the gene expression signatures of skin immune cells in systemic lupus erythematosus (SLE), atopic dermatitis (AD), and psoriasis (PS). By analyzing single-cell RNA sequencing data from each dataset, T cell gene signatures from autoimmune skin diseases exhibit a complex immune response in tumors that responded to immunotherapy. Based on that CD86 and CD80 provide essential costimulatory signals for T cell activation, we observed that interaction of CD86 signaling has been enhanced in the T cells of patients with SLE, AD, and PS. Our analysis revealed a common increase in CD86 signals from dendritic cells (DCs) to T cells in patients with SLE, AD, and PS, confirming that dendritic cells produce pro-inflammatory cytokines to activate T cells. Thus, we hypothesize that T cell gene signatures from autoimmune skin diseases exhibit a pro-inflammatory response and have the potential to predict cancer immunotherapy. Our study demonstrated that T cell gene signatures derived from inflammatory skin diseases, particularly SLE and PS, hold promise as potential biomarkers for predicting the response to immune checkpoint blockade therapy in patients with melanoma. Our data provide an understanding of the immune-related characteristics and differential gene expression patterns in autoimmune skin diseases, which may represent promising targets for melanoma immunotherapy.
+Access URLs:
+  - DOI: https://doi.org/10.1038/s41598-023-42238-3
+  - LibKey: https://doi.org/10.1038/s41598-023-42238-3
+  - Unpaywall: ['https://www.nature.com/articles/s41598-023-42238-3.pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10497583']
+  - Sci-Hub: https://sci-hub.se/10.1038/s41598-023-42238-3
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Case Report: Cadonilimab-related toxic epidermal necrolysis-like reactions successfully treated with supplemental Adalimumab.
+Authors: Peng-Yu Chen, Zi-Yun Li, Sui-Qing Cai
+Year: 2023
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2023.1188523
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/37600791/
+Abstract: Cadonilimab is the first bi-specific antibody approved for certain malignancies in June 2022, which has a modified Fc structure to reduce immune-related adverse events. To date, no reports have described Cadonilimab-related toxic epidermal necrolysis (TEN). Here, we report the first case of TEN-like reactions occurring during the treatment of hepatocellular carcinoma with Cadonilimab in combination with Lenvatinib and transarterial chemoembolization, successfully treated with supplemental Adalimumab. We confirmed Cadonilimab as the culprit and observed significant improvement in the patient's condition following Adalimumab treatment. The case emphasizes the potential risk of Cadonilimab inducing TEN, and suggests that supplemental Adalimumab could be a favorable option for treating refractory Cadonilimab-related TEN.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2023.1188523
+  - LibKey: https://doi.org/10.3389/fimmu.2023.1188523
+  - Unpaywall: ['https://www.frontiersin.org/articles/10.3389/fimmu.2023.1188523/pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10435079']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2023.1188523
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cutaneous manifestations associated with immune checkpoint inhibitors.
+Authors: Tomoya Watanabe, Yukie Yamaguchi
+Year: 2023
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2023.1071983
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36891313/
+Abstract: Immune checkpoint inhibitors (ICIs) are monoclonal antibodies that block key mediators of tumor-mediated immune evasion. The frequency of its use has increased rapidly and has extended to numerous cancers. ICIs target immune checkpoint molecules, such as programmed cell death protein 1 (PD-1), PD ligand 1 (PD-L1), and T cell activation, including cytotoxic T-lymphocyte-associated protein-4 (CTLA-4). However, ICI-driven alterations in the immune system can induce various immune-related adverse events (irAEs) that affect multiple organs. Among these, cutaneous irAEs are the most common and often the first to develop. Skin manifestations are characterized by a wide range of phenotypes, including maculopapular rash, psoriasiform eruption, lichen planus-like eruption, pruritus, vitiligo-like depigmentation, bullous diseases, alopecia, and Stevens-Johnson syndrome/toxic epidermal necrolysis. In terms of pathogenesis, the mechanism of cutaneous irAEs remains unclear. Still, several hypotheses have been proposed, including activation of T cells against common antigens in normal tissues and tumor cells, increased release of proinflammatory cytokines associated with immune-related effects in specific tissues/organs, association with specific human leukocyte antigen variants and organ-specific irAEs, and acceleration of concurrent medication-induced drug eruptions. Based on recent literature, this review provides an overview of each ICI-induced skin manifestation and epidemiology and focuses on the mechanisms underlying cutaneous irAEs.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2023.1071983
+  - LibKey: https://doi.org/10.3389/fimmu.2023.1071983
+  - Unpaywall: ['https://www.frontiersin.org/articles/10.3389/fimmu.2023.1071983/pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/9986601']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2023.1071983
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Noncutaneous immune-related adverse events predict overall and progression-free survival in patients with cutaneous toxicities after immune checkpoint inhibitor therapy.
+Authors: Maria S Asdourian, Ted V Jacoby, Nishi Shah, Tracey Otto, Leah L Thompson, Edward Christopher Dee, Kerry L Reynolds, Yevgeniy R Semenov, Steven T Chen
+Year: 2023
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2022.12.049
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36736625/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2022.12.049
+  - LibKey: https://doi.org/10.1016/j.jaad.2022.12.049
+  - Unpaywall: ['http://www.jaad.org/pdf/pdf', 'https://www.jaad.org/article/pdf/pdf', 'https://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/S0190962223001548/pdf', 'http://www.jaad.org/article/pdf/pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10758294']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2022.12.049
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: [Translated article] Adverse Dermatologic Reactions in Patients Treated With Immune Checkpoint Inhibitors.
+Authors: R Fayos Gregori, C Labrandero Hoyos, R Peñuelas Leal, V Alegre de Miquel
+Year: 2023
+Journal: Actas dermo-sifiliograficas
+DOI: 10.1016/j.ad.2022.08.030
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36690146/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.ad.2022.08.030
+  - LibKey: https://doi.org/10.1016/j.ad.2022.08.030
+  - Unpaywall: ['https://doi.org/10.1016/j.ad.2022.08.030']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.ad.2022.08.030
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: The effect of baseline eczema or psoriasis on the morphology of cutaneous immune-related adverse events due to immune checkpoint inhibitor therapy.
+Authors: Annika Belzer, Ryland D Mortlock, Jolanta Pach, Jeffrey M Cohen, Jonathan S Leventhal
+Year: 2023
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2023.01.002
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36634749/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2023.01.002
+  - LibKey: https://doi.org/10.1016/j.jaad.2023.01.002
+  - Unpaywall: ['http://www.jaad.org/pdf/pdf', 'https://www.jaad.org/article/pdf/pdf', 'https://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/pdf/pdf', 'http://www.jaad.org/article/S0190962223000609/pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10121758']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2023.01.002
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Inflammatory vulvar dermatoses following immune checkpoint inhibitor therapy.
+Authors: Tiffany Y Sia, Allison Betof Warner, Sarah J Noor, Emeline M Aviki, Kara Long Roche
+Year: 2023
+Journal: American journal of obstetrics and gynecology
+DOI: 10.1016/j.ajog.2022.08.052
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36084703/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.ajog.2022.08.052
+  - LibKey: https://doi.org/10.1016/j.ajog.2022.08.052
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/9986340']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.ajog.2022.08.052
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Checkpoint Blockade-Induced Dermatitis and Colitis Are Dominated by Tissue-Resident Memory T Cells and Th1/Tc1 Cytokines.
+Authors: Robin Reschke, Jason W Shapiro, Jovian Yu, Sherin J Rouhani, Daniel J Olson, Yuanyuan Zha, Thomas F Gajewski
+Year: 2022
+Journal: Cancer immunology research
+DOI: 10.1158/2326-6066.CIR-22-0362
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35977003/
+Abstract: Immune checkpoint blockade is therapeutically successful for many patients across multiple cancer types. However, immune-related adverse events (irAE) frequently occur and can sometimes be life threatening. It is critical to understand the immunologic mechanisms of irAEs with the goal of finding novel treatment targets. Herein, we report our analysis of tissues from patients with irAE dermatitis using multiparameter immunofluorescence (IF), spatial transcriptomics, and RNA in situ hybridization (RISH). Skin psoriasis cases were studied as a comparison, as a known Th17-driven disease, and colitis was investigated as a comparison. IF analysis revealed that CD4+ and CD8+ tissue-resident memory T (TRM) cells were preferentially expanded in the inflamed portion of skin in cutaneous irAEs compared with healthy skin controls. Spatial transcriptomics allowed us to focus on areas containing TRM cells to discern functional phenotype and revealed expression of Th1-associated genes in irAEs, compared with Th17-asociated genes in psoriasis. Expression of PD-1, CTLA-4, LAG-3, and other inhibitory receptors was observed in irAE cases. RISH technology combined with IF confirmed expression of IFNγ, CXCL9, CXCL10, and TNFα in irAE dermatitis, as well as IFNγ within TRM cells specifically. The Th1-skewed phenotype was confirmed in irAE colitis cases compared with healthy colon.
+Access URLs:
+  - DOI: https://doi.org/10.1158/2326-6066.CIR-22-0362
+  - LibKey: https://doi.org/10.1158/2326-6066.CIR-22-0362
+  - Unpaywall: ['https://aacrjournals.org/cancerimmunolres/article-pdf/10/10/1167/3207962/1167.pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/9530647']
+  - Sci-Hub: https://sci-hub.se/10.1158/2326-6066.CIR-22-0362
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Anticancer treatments and photosensitivity.
+Authors: V Sibaud
+Year: 2022
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+DOI: 10.1111/jdv.18200
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35738806/
+Abstract: Drug-induced photosensitivity is associated with a wide range of anticancer treatments, including conventional chemotherapeutic agents, targeted anticancer therapies, and immune checkpoint inhibitors. These dermatologic adverse events can have a major impact on the well-being and quality of life of cancer patients, leading to dose modifications and interruption or discontinuation of anticancer treatments in severe cases. However, the heterogeneous nature of the photosensitive reactions induced by these agents, as well as the common concomitant use of other potentially photosensitizing drugs (antibiotics, voriconazole, nonsteroidal anti-inflammatory drugs, etc.), can make the diagnosis and, therefore the prevention, of these adverse events particularly challenging. The aim of this review is to describe the most characteristic forms of photosensitivity observed in patients being treated with anticancer treatments, including phototoxicity and photoallergy, and other potentially photo-induced manifestations such as UV recall, exaggerated sunburn reactions associated with treatment-related vitiligo, drug-induced cutaneous lupus erythematosus, and UV-induced hyperpigmentation. We also discuss the photosensitive reactions recently reported with new-generation targeted anticancer therapies and immune checkpoint inhibitors and highlight the importance of continued surveillance to identify photosensitizing agents, and of educating patients on the need for preventive UVA/UVB photoprotective measures.
+Access URLs:
+  - DOI: https://doi.org/10.1111/jdv.18200
+  - LibKey: https://doi.org/10.1111/jdv.18200
+  - Unpaywall: ['https://onlinelibrary.wiley.com/doi/full/10.1111/jdv.18200', 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.18200', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.18200', 'https://www.ncbi.nlm.nih.gov/pmc/articles/9328141', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/jdv.18200', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.18200', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/jdv.18200']
+  - Sci-Hub: https://sci-hub.se/10.1111/jdv.18200
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune checkpoint inhibitors unleash pathogenic immune responses against the microbiota.
+Authors: Zishuo Ian Hu, Verena M Link, Djalma S Lima-Junior, Jérémie Delaleu, Nicolas Bouladoux, Seong-Ji Han, Nicholas Collins, Yasmine Belkaid
+Year: 2022
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+DOI: 10.1073/pnas.2200348119
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35727974/
+Abstract: Immune checkpoint inhibitors (ICIs) are essential components of the cancer therapeutic armamentarium. While ICIs have demonstrated remarkable clinical responses, they can be accompanied by immune-related adverse events (irAEs). These inflammatory side effects are of unclear etiology and impact virtually all organ systems, with the most common being sites colonized by the microbiota such as the skin and gastrointestinal tract. Here, we establish a mouse model of commensal bacteria-driven skin irAEs and demonstrate that immune checkpoint inhibition unleashes commensal-specific inflammatory T cell responses. These aberrant responses were dependent on production of IL-17 by commensal-specific T cells and induced pathology that recapitulated the cutaneous inflammation seen in patients treated with ICIs. Importantly, aberrant T cell responses unleashed by ICIs were sufficient to perpetuate inflammatory memory responses to the microbiota months following the cessation of treatment. Altogether, we have established a mouse model of skin irAEs and reveal that ICIs unleash aberrant immune responses against skin commensals, with long-lasting inflammatory consequences.
+Access URLs:
+  - DOI: https://doi.org/10.1073/pnas.2200348119
+  - LibKey: https://doi.org/10.1073/pnas.2200348119
+  - Unpaywall: ['https://pnas.org/doi/pdf/10.1073/pnas.2200348119', 'https://www.ncbi.nlm.nih.gov/pmc/articles/9245641']
+  - Sci-Hub: https://sci-hub.se/10.1073/pnas.2200348119
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cutaneous Toxicities Associated with Immune Checkpoint Inhibitors: An Observational, Pharmacovigilance Study.
+Authors: Thomas K Le, Isabelle Brown, Rebecca Goldberg, Matthew T Taylor, Junwen Deng, Varsha Parthasarathy, Zachary A Bordeaux, Martin Prince Alphonse, Madan M Kwatra, Vivek Naranbhai, Alexander Gusev, Jihad Alhariri, Nicole R LeBoeuf, Kerry L Reynolds, Laura C Cappelli, Jarushka Naidoo, Julie R Brahmer, Sewon Kang, Yevgeniy R Semenov, Shawn G Kwatra
+Year: 2022
+Journal: The Journal of investigative dermatology
+DOI: 10.1016/j.jid.2022.04.020
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35605659/
+Abstract: Cutaneous immune-related adverse events (cirAEs) are the most prevalent complication to arise from immunotherapy and cause significant morbidity. We aimed to determine the spectrum, timing, clinical features, and outcomes of cirAEs by conducting an observational pharmacovigilance study using VigiBase, the World Health Organization's global database of individual case safety reports from over 130 member countries (ClinicalTrials.gov, number NCT04898751). We compared adverse event reporting in patients who received immune checkpoint inhibitors (91,323 adverse events) with those of the full reporting database (18,919,358 adverse events). There were 10,933 cases of cirAEs within 51 distinct dermatologic types, with 27 specific eruptions with disproportionate signal represented (information component [IC]
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jid.2022.04.020
+  - LibKey: https://doi.org/10.1016/j.jid.2022.04.020
+  - Unpaywall: ['https://doi.org/10.1016/j.jid.2022.04.020', 'https://www.ncbi.nlm.nih.gov/pmc/articles/10796162']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jid.2022.04.020
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Early onset drug-induced hypersensitivity syndrome with lymphopenia, hepatitis, and normal eosinophils induced by BRAF/MEK inhibitor after immune checkpoint inhibitor therapy.
+Authors: Anna Buhle, Nathan Johnson, Douglas Grider, Mariana Phillips
+Year: 2022
+Journal: Dermatology online journal
+DOI: 10.5070/D328157062
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35499416/
+Abstract: Targeted therapy (BRAF/MEK inhibitors) is frequently employed in the treatment of metastatic melanoma following immune checkpoint inhibitor therapy inefficacy or intolerance. Although BRAF inhibitors are commonly associated with cutaneous eruptions, they rarely cause severe cutaneous adverse drug reactions such as drug-induced hypersensitivity syndrome (DIHS). Drug-induced hypersensitivity syndrome is a severe drug reaction characterized by extensive eruption often seen in conjunction with fever, facial edema, lymphadenopathy, eosinophilia, atypical lymphocytosis, and variable visceral organ injury characteristically beginning 2-8 weeks after initiating the causative drug. We report a case of atypical DIHS with reduced latency, mucosal involvement, lymphopenia, normal eosinophils, and no lymphadenopathy that occurred secondary to vemurafenib and cobimetinib therapy following melanoma progression while on pembrolizumab. Previous immune checkpoint inhibitor therapy has been associated with atypical DIHS in patients on BRAF/MEK inhibitors. Early recognition of the atypical clinical features of this hypersensitivity reaction is important so that drug discontinuation and corticosteroids can be initiated early.
+Access URLs:
+  - DOI: https://doi.org/10.5070/D328157062
+  - LibKey: https://doi.org/10.5070/D328157062
+  - Unpaywall: ['https://escholarship.org/content/qt37f1t16d/qt37f1t16d.pdf?t=rar3z8']
+  - Sci-Hub: https://sci-hub.se/10.5070/D328157062
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Severe cutaneous adverse reaction following COVID-19 vaccination and immunotherapy: a second hit?
+Authors: K Hussain, A Kawsar, J Weir, L Au, S Turajlic, J Larkin, L Fearfield
+Year: 2022
+Journal: Clinical and experimental dermatology
+DOI: 10.1111/ced.14852
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34260095/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1111/ced.14852
+  - LibKey: https://doi.org/10.1111/ced.14852
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/8444809']
+  - Sci-Hub: https://sci-hub.se/10.1111/ced.14852
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Epidemiology and risk factors for the development of cutaneous toxicities in patients treated with immune-checkpoint inhibitors: A United States population-level analysis.
+Authors: Shannon Wongvibulsin, Vartan Pahalyants, Mark Kalinich, William Murphy, Kun-Hsing Yu, Feicheng Wang, Steven T Chen, Kerry Reynolds, Shawn G Kwatra, Yevgeniy R Semenov
+Year: 2022
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2021.03.094
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33819538/
+Abstract: A variety of dermatoses have been reported in the growing number of patients treated with immune-checkpoint inhibitors (ICIs), but the current understanding of cutaneous immune-related adverse events (irAEs) is limited.
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2021.03.094
+  - LibKey: https://doi.org/10.1016/j.jaad.2021.03.094
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/10285344', 'https://doi.org/10.1016/j.jaad.2021.03.094']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2021.03.094
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Crusted scabies masquerading as a drug eruption related to nivolumab.
+Authors: Tusita Adris, Matthew W McEwen, Emily Jones
+Year: 2021
+Journal: Dermatology online journal
+DOI: 10.5070/D3271156097
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/35130409/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.5070/D3271156097
+  - LibKey: https://doi.org/10.5070/D3271156097
+  - Unpaywall: ['https://escholarship.org/content/qt4d21j0jt/qt4d21j0jt.pdf?t=r8inob']
+  - Sci-Hub: https://sci-hub.se/10.5070/D3271156097
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Treating Cutaneous Immune-Related Adverse Events from Immune Checkpoint Blockade.
+Authors: Nagasai C. Adusumilli, Adam J. Friedman
+Year: 2021
+Journal: Journal of drugs in dermatology : JDD
+DOI: 10.36849/JDD.0421
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34636526/
+Abstract: Immune checkpoint inhibitors (ICPis) have revolutionized outcomes in various advanced malignancies. Therapeutic restoration of a robust T-cell response against malignant cells is also at the root of distinct cutaneous immune-related adverse events (cirAEs). As approved indications for ICPis increase and interdisciplinary collaboration with oncology grows, identifying the most common skin toxicities from ICPis, particularly on melanin-rich skin,1 and understanding treatment strategies are increasingly crucial for dermatologists. This brief review highlights common cirAEs and summarizes the latest evidence for interventions.
+Access URLs:
+  - DOI: https://doi.org/10.36849/JDD.0421
+  - LibKey: https://doi.org/10.36849/JDD.0421
+  - Unpaywall: ['https://jddonline.com/wp-content/themes/jdd-salient-child/download.php?pii=S1545961621P0354X&download=1']
+  - Sci-Hub: https://sci-hub.se/10.36849/JDD.0421
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Nivolumab-associated DRESS in a genetic susceptible individual.
+Authors: Luoyan Ai, Jie Gao, Shihai Zhao, Qian Li, Yue-Hong Cui, Qing Liu, Duojiao Wu, Yimei Wang, Xiaoshi Jin, Yuan Ji, Jingjie Li, Yiyi Yu, Tianshu Liu
+Year: 2021
+Journal: Journal for immunotherapy of cancer
+DOI: 10.1136/jitc-2021-002879
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34599025/
+Abstract: The use of immune checkpoint inhibitors (ICIs) is rising exponentially in numerous cancers, but immune-related adverse events can occur. We report a rare case of high-grade drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome developed stepwise in a patient with gastric cancer after nivolumab treatment. Subclinical myocarditis was sensitively detected by cardiovascular magnetic resonance 3 weeks after initiating nivolumab. Eruption, eosinophilia, and interstitial pneumonitis occurred 1 week later. Corticosteroids were started and his condition improved. Four months later, when he was still on steroids tapering off, acute kidney injury and sequential herpes zoster virus activation developed. Severe acute tubulointerstitial nephritis (ATN) with an intense infiltration of lymphocytes was observed on renal biopsy. In blood, a substantial shift to Th2 response, an increase of Th17 cells, and strikingly enriched granzyme B
+Access URLs:
+  - DOI: https://doi.org/10.1136/jitc-2021-002879
+  - LibKey: https://doi.org/10.1136/jitc-2021-002879
+  - Unpaywall: ['https://jitc.bmj.com/content/jitc/9/10/e002879.full.pdf', 'https://www.ncbi.nlm.nih.gov/pmc/articles/8488716']
+  - Sci-Hub: https://sci-hub.se/10.1136/jitc-2021-002879
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Case Report: A Rare Case of Pembrolizumab-Induced Bullous Pemphigoid.
+Authors: Xiaoyan Zhang, Dongjiang Sui, Dong Wang, Lina Zhang, Ruiyan Wang
+Year: 2021
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2021.731774
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34594337/
+Abstract: The programmed cell death protein 1 inhibitor pembrolizumab, an immune checkpoint inhibitor, has subsequently been approved for the treatment of a wide variety of malignant tumors. Compared with conventional chemotherapy, immunotherapy is associated with a unique set of immune reactions, known collectively as immune-related adverse events. Although often mild, dermatologic toxicity can occasionally be high grade and potentially life-threatening. Here we describe a rare case of bullous pemphigoid (BP) associated with pembrolizumab. A 79-year-old male patient presented with scattered erythema, papules, blisters, and pruritus after pembrolizumab treatment. Then, the rash gradually aggravated and spread to the whole body. The extensive edematous erythema, blisters, bullae, and blood blisters were loose and easy to rupture, forming an erosive surface and with pruritus and obvious pain. The hemidesmosomal protein BP180 (type XVII collagen) was detectable in the serum, and the histological examination diagnosis was bullous pemphigoid. After 10 days of glucocorticoid (methylprednisolone, iv, 80 mg/day) treatment, new blister formation ceased. We need to increase the awareness on and facilitate the earlier identification of the cutaneous adverse effects of BP with immunotherapy so that treat can begin early in order to limit the duration and severity of toxicity.
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2021.731774
+  - LibKey: https://doi.org/10.3389/fimmu.2021.731774
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/8477373', 'http://europepmc.org/pmc/articles/PMC8477373', 'https://www.frontiersin.org/articles/10.3389/fimmu.2021.731774/pdf']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2021.731774
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: T cell mediated hypersensitivity to previously tolerated iodinated contrast media precipitated by introduction of atezolizumab.
+Authors: Sean Hammond, Anna Olsson-Brown, Joshua Gardner, Paul Thomson, Serat-E Ali, Carol Jolly, Dan Carr, Lorenzo Ressel, Munir Pirmohamed, Dean Naisbitt
+Year: 2021
+Journal: Journal for immunotherapy of cancer
+DOI: 10.1136/jitc-2021-002521
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34049931/
+Abstract: Many adverse reactions associated with immune checkpoint inhibitor (ICI) treatments are immunologically driven and may necessitate discontinuation of the ICI. Herein, we present a patient who had been administered the radio contrast media amidotrizoate multiple times without issue but who then developed a Stevens-Johnson syndrome reaction after coadministration of atezolizumab. Causality was confirmed by a positive re-challenge with amidotrizoate and laboratory investigations that implicated T cells. Importantly, the introduction of atezolizumab appears to have altered the immunologic response to amidotrizoate in terms of the tolerance-elicitation continuum. Proof of concept studies demonstrated enhancement of recall responses to a surrogate antigen panel following 
+Access URLs:
+  - DOI: https://doi.org/10.1136/jitc-2021-002521
+  - LibKey: https://doi.org/10.1136/jitc-2021-002521
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/8166637', 'https://jitc.bmj.com/content/jitc/9/5/e002521.full.pdf']
+  - Sci-Hub: https://sci-hub.se/10.1136/jitc-2021-002521
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Rare and fatal complication of immune checkpoint inhibition: a case report of haemophagocytic lymphohistiocytosis with severe lichenoid dermatitis.
+Authors: Sara Choi, Maggie Zhou, Eman Bahrani, Beth A Martin, Kristen N Ganjoo, Lisa C Zaba
+Year: 2021
+Journal: British journal of haematology
+DOI: 10.1111/bjh.17442
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33954981/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1111/bjh.17442
+  - LibKey: https://doi.org/10.1111/bjh.17442
+  - Unpaywall: ['https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjh.17442', 'https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17442', 'https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/bjh.17442', 'https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjh.17442', 'https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/bjh.17442', 'https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bjh.17442', 'https://febs.onlinelibrary.wiley.com/doi/full/10.1111/bjh.17442']
+  - Sci-Hub: https://sci-hub.se/10.1111/bjh.17442
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Immune checkpoint inhibitor-related Stevens-Johnson syndrome/toxic epidermal necrolysis-like reactions.
+Authors: Ellie Ci-En Choi, Yee Kiat Heng, Yen Loo Lim
+Year: 2021
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2021.03.122
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33878411/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2021.03.122
+  - LibKey: https://doi.org/10.1016/j.jaad.2021.03.122
+  - Unpaywall: ['http://www.jaad.org/pdf/pdf', 'https://www.jaad.org/article/pdf/pdf', 'https://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/S019096222100829X/pdf', 'http://www.jaad.org/article/pdf/pdf']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2021.03.122
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Response to: "Immune checkpoint inhibitor-related Stevens-Johnson syndrome/toxic epidermal necrolysis-like reactions".
+Authors: Gabriel E Molina, Tracey S Otto, Zizi Yu, Ruth K Foreman, Kerry L Reynolds, Steven T Chen
+Year: 2021
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2021.04.028
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33878410/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2021.04.028
+  - LibKey: https://doi.org/10.1016/j.jaad.2021.04.028
+  - Unpaywall: ['http://www.jaad.org/pdf/pdf', 'https://www.jaad.org/article/pdf/pdf', 'https://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/S0190962221008306/pdf', 'http://www.jaad.org/article/pdf/pdf']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2021.04.028
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Questionnaire-based detection of immune-related adverse events in cancer patients treated with PD-1/PD-L1 immune checkpoint inhibitors.
+Authors: Luisa Maria Griewing, Claudia Schweizer, Philipp Schubert, Sandra Rutzner, Markus Eckstein, Benjamin Frey, Marlen Haderlein, Thomas Weissmann, Sabine Semrau, Antoniu-Oreste Gostian, Sarina K Müller, Maximilian Traxdorf, Heinrich Iro, Jian-Guo Zhou, Udo S Gaipl, Rainer Fietkau, Markus Hecht
+Year: 2021
+Journal: BMC cancer
+DOI: 10.1186/s12885-021-08006-0
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33761922/
+Abstract: Immune checkpoint inhibitors (ICI) have become standard treatment in different tumor entities. However, safe treatment with ICI targeting the PD-1/PD-L1 axis requires early detection of immune-related adverse events (irAE). There exist different questionnaires of drug manufacturers for the detection of irAE that have not been validated so far.
+Access URLs:
+  - DOI: https://doi.org/10.1186/s12885-021-08006-0
+  - LibKey: https://doi.org/10.1186/s12885-021-08006-0
+  - Unpaywall: ['https://bmccancer.biomedcentral.com/track/pdf/10.1186/s12885-021-08006-0', 'https://opus4.kobv.de/opus4-fau/files/17649/s12885-021-08006-0.pdf', 'https://repository.publisso.de/resource/frl:6462815', 'https://www.ncbi.nlm.nih.gov/pmc/articles/7992796']
+  - Sci-Hub: https://sci-hub.se/10.1186/s12885-021-08006-0
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Patterns of Cutaneous and Noncutaneous Immune-Related Adverse Events Among Patients With Advanced Cancer.
+Authors: Leah L Thompson, Nira A Krasnow, Michael S Chang, Jaewon Yoon, Edward B Li, Nicole J Polyakov, Gabriel E Molina, Jordan T Said, Kevin Huang, Juhi R Kuchroo, Andrea N Hinton, Kerry L Reynolds, Steven T Chen
+Year: 2021
+Journal: JAMA dermatology
+DOI: 10.1001/jamadermatol.2021.0326
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33760001/
+Abstract: Cutaneous immune-related adverse events (cirAEs) are some of the earliest toxic reactions to emerge following immune-checkpoint inhibitor (ICI) initiation. As an early indicator of robust inflammatory response, cirAEs may be associated with patterns of immune-mediated toxic effects, but associations between these events and noncutaneous immune-related adverse events (irAEs) remain underexplored.
+Access URLs:
+  - DOI: https://doi.org/10.1001/jamadermatol.2021.0326
+  - LibKey: https://doi.org/10.1001/jamadermatol.2021.0326
+  - Unpaywall: ['https://www.ncbi.nlm.nih.gov/pmc/articles/7992016']
+  - Sci-Hub: https://sci-hub.se/10.1001/jamadermatol.2021.0326
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Subclinical Myocarditis After Combination Immune Checkpoint Inhibitor Therapy.
+Authors: Gerard T Giblin, Colum Dennehy, Hannah Featherstone, Rachel Clarke, Laura Murphy, Deirdre Timlin, Conor O'Keane, Niall Mulligan, Catherine M Kelly, Emer Joyce
+Year: 2021
+Journal: Circulation. Heart failure
+DOI: 10.1161/CIRCHEARTFAILURE.120.007524
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33478241/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1161/CIRCHEARTFAILURE.120.007524
+  - LibKey: https://doi.org/10.1161/CIRCHEARTFAILURE.120.007524
+  - Unpaywall: ['https://www.ahajournals.org/doi/pdf/10.1161/CIRCHEARTFAILURE.120.007524']
+  - Sci-Hub: https://sci-hub.se/10.1161/CIRCHEARTFAILURE.120.007524
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Cutaneous adverse events to immune checkpoint inhibitors in pediatric populations: A retrospective cohort study.
+Authors: Lindsay McCormack, Leah L Thompson, Michael S Chang, Nicole Polyakov, Hannah Song, Steven T Chen, Jennifer T Huang
+Year: 2021
+Journal: Journal of the American Academy of Dermatology
+DOI: 10.1016/j.jaad.2020.11.033
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33249069/
+Abstract: No abstract available
+Access URLs:
+  - DOI: https://doi.org/10.1016/j.jaad.2020.11.033
+  - LibKey: https://doi.org/10.1016/j.jaad.2020.11.033
+  - Unpaywall: ['http://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/S019096222033070X/pdf', 'https://www.jaad.org/article/pdf/pdf', 'https://www.jaad.org/pdf/pdf', 'http://www.jaad.org/article/pdf/pdf']
+  - Sci-Hub: https://sci-hub.se/10.1016/j.jaad.2020.11.033
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
+Title: Inactivation of the PD-1-Dependent Immunoregulation in Mice Exacerbates Contact Hypersensitivity Resembling Immune-Related Adverse Events.
+Authors: Matin Dokht Ashoori, Kensuke Suzuki, Yosuke Tokumaru, Naoko Ikuta, Masaki Tajima, Tasuku Honjo, Akio Ohta
+Year: 2020
+Journal: Frontiers in immunology
+DOI: 10.3389/fimmu.2020.618711
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33584713/
+Abstract: Blockade of PD-1, an indispensable physiological immunoregulatory mechanism, enhances immune activities and is widely used in the immunotherapy of cancer. This treatment often accompanies inflammatory complication called immune-related adverse events (irAE), most frequently in the skin. To analyze how skin inflammation develops by the blockade of PD-1-dependent immunoregulation, we studied the exacerbation of oxazolone-induced contact hypersensitivity by PD-L1 blockade. The inactivation of PD-1 signaling enhanced swelling of the skin with massive CD8
+Access URLs:
+  - DOI: https://doi.org/10.3389/fimmu.2020.618711
+  - LibKey: https://doi.org/10.3389/fimmu.2020.618711
+  - Unpaywall: ['https://www.frontiersin.org/articles/10.3389/fimmu.2020.618711/pdf', 'http://hdl.handle.net/2433/263566', 'https://www.ncbi.nlm.nih.gov/pmc/articles/7873368']
+  - Sci-Hub: https://sci-hub.se/10.3389/fimmu.2020.618711
+Availability:
+  - Is Available: True
+  - Sources: unpaywall
+
+---
+
