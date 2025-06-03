@@ -20,8 +20,7 @@ A full-stack application that helps researchers streamline their literature revi
 ```
 .
 ├── frontend/          # Next.js frontend application
-│   ├── src/          # Source code
-│   ├── components/   # React components
+│   ├── src/          # React components and pages
 │   └── public/       # Static assets
 └── backend/          # Python Flask backend
     ├── app.py        # Main application file
@@ -32,45 +31,42 @@ A full-stack application that helps researchers streamline their literature revi
 
 ### Frontend (Next.js)
 
-1. Install dependencies:
 ```bash
 cd frontend
 npm install
-```
-
-2. Create a `.env.local` file with required environment variables:
-```
-NEXT_PUBLIC_API_URL=http://localhost:5000
-```
-
-3. Run the development server:
-```bash
 npm run dev
 ```
 
-### Backend (Python Flask)
+The frontend will be available at `http://localhost:3000`
 
-1. Create and activate a virtual environment:
+### Backend (Flask)
+
 ```bash
 cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
-```bash
 pip install -r requirements.txt
+python app.py
 ```
 
-3. Create a `.env` file with required environment variables:
+The backend API will be available at `http://localhost:5000`
+
+## Environment Variables
+
+### Frontend (.env.local)
+```
+NEXT_PUBLIC_API_URL=http://localhost:5000
+```
+
+### Backend (.env)
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
 
-4. Run the Flask server:
-```bash
-python app.py
-```
+## Deployment
+
+- Frontend is deployed to GitHub Pages
+- Backend needs to be deployed to a server that can run Python/Flask
 
 ## Usage
 
@@ -91,4 +87,4 @@ python app.py
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.

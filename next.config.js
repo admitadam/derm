@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: '',
+  // Remove basePath when using custom domain
+  // basePath: '/derm',
 }
 
 module.exports = nextConfig 

@@ -45,3 +45,25 @@ __pycache__/
 *$py.class
 venv/
 .env
+
+# Frontend
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env*
+frontend/*.log
+
+# Backend
+backend/__pycache__
+backend/*.pyc
+backend/venv
+backend/.env
+
+# General
+.DS_Store
+.env
+.venv
+venv/
+ENV/
+.idea/
+.vscode/
