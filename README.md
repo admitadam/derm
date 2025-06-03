@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Literature Review Pipeline
 
-## Getting Started
+A full-stack application that helps researchers streamline their literature review process using AI assistance. The application can generate research questions, create PubMed search strings, and automatically find and download available research papers.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- AI-powered abstract generation based on research questions
+- Automated PubMed search string generation
+- PubMed paper search and metadata extraction
+- Automatic paper availability checking through multiple sources:
+  - Unpaywall
+  - LibKey Nomad
+  - Publisher sites
+  - Sci-Hub
+- Bulk paper download functionality
+- Modern, responsive UI built with Next.js and Tailwind CSS
+
+## Project Structure
+
+```
+.
+├── frontend/          # Next.js frontend application
+│   ├── src/          # Source code
+│   ├── components/   # React components
+│   └── public/       # Static assets
+└── backend/          # Python Flask backend
+    ├── app.py        # Main application file
+    └── requirements.txt  # Python dependencies
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Setup
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Frontend (Next.js)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Install dependencies:
+```bash
+cd frontend
+npm install
+```
 
-## Learn More
+2. Create a `.env.local` file with required environment variables:
+```
+NEXT_PUBLIC_API_URL=http://localhost:5000
+```
 
-To learn more about Next.js, take a look at the following resources:
+3. Run the development server:
+```bash
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend (Python Flask)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Create and activate a virtual environment:
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-## Deploy on Vercel
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Create a `.env` file with required environment variables:
+```
+OPENAI_API_KEY=your_api_key_here
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Run the Flask server:
+```bash
+python app.py
+```
+
+## Usage
+
+1. Enter your research question in the input field
+2. Click "Generate Abstract" to get an AI-generated literature review abstract
+3. Use the generated search string or modify it as needed
+4. Click "Search PubMed" to find relevant papers
+5. Click "Find Available PDFs" to check paper availability
+6. Download available papers individually or in bulk
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
