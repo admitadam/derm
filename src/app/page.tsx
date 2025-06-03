@@ -61,6 +61,9 @@ export default function Home() {
   const [generatedAbstract, setGeneratedAbstract] = useState<GeneratedAbstract>({ content: "", visible: false });
   const itemsPerPage = 50;
 
+  // Configure your backend API URL here
+  const API_URL = "http://localhost:5000";
+
   const validateQuestion = (q: string) => {
     if (q.length < 10) return "Question must be at least 10 characters long";
     if (!q.includes("?")) return "Question should end with a question mark";
@@ -77,9 +80,12 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const abstractRes = await fetch("http://localhost:5000/generate-abstract", {
+      const abstractRes = await fetch(`${API_URL}/generate-abstract`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        },
         body: JSON.stringify({ question })
       });
       if (!abstractRes.ok) throw new Error("Failed to generate abstract");
@@ -98,9 +104,12 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const searchRes = await fetch("http://localhost:5000/generate-search-string", {
+      const searchRes = await fetch(`${API_URL}/generate-search-string`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        },
         body: JSON.stringify({ question })
       });
       if (!searchRes.ok) throw new Error("Failed to generate search string");
@@ -124,9 +133,12 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch("http://localhost:5000/pubmed-search", {
+      const res = await fetch(`${API_URL}/pubmed-search`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        },
         body: JSON.stringify({ search_string: searchString })
       });
       if (!res.ok) throw new Error("Failed to search PubMed");
@@ -145,9 +157,12 @@ export default function Home() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch("http://localhost:5000/download-pdfs", {
+      const res = await fetch(`${API_URL}/download-pdfs`, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { 
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        },
         body: JSON.stringify({ search_string: searchString })
       });
       if (!res.ok) throw new Error("Failed to find PDFs");
